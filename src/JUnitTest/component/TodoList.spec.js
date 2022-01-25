@@ -27,8 +27,7 @@ describe('TodoList App Component', () => {
     let length;
 
     beforeEach(() => {
-      wrapper = component.instance();
-      length = component.state().todos.length;
+      wrapper = component.instance(), length = component.state().todos.length;
     })
 
     it('--> add a todo', () => {

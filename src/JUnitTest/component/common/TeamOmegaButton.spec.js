@@ -25,8 +25,7 @@ describe('TeamOmegaButton Component', () => {
 
   it("-->checking proptype", () => {
     const expectedProps = {
-      type,
-      dataBsToggle: "",
+      type, dataBsToggle: "",
       dataBsTarget: "",
       dataBsDismiss: "",
       ariaLabel: "",

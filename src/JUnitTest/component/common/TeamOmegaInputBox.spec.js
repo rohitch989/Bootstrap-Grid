@@ -25,7 +25,8 @@ describe('TeamOmegaInputBox Component', () => {
   it("-->checking proptype", () => {
     const expectedProps = {
       handlerChange: () => { },
-      values: "", type: "",
+      values: "",
+      type: "",
       ariaDescribedby: "", placeholder: "",
       className: "", ariaLabel: "",
       name: "", id: "",

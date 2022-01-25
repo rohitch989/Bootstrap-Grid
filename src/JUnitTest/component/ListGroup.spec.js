@@ -24,8 +24,7 @@ describe('ListGroup Component', () => {
   let component, wrapper, props;
 
   beforeEach(() => {
-    props = { todos, removeTodo, updateTodo }
-    component = setUp(props);
+    props = { todos, removeTodo, updateTodo }, component = setUp(props);
   });
 
   it('--> render', () => expect(findByTestAttr(component, 'ListGroup_Component')).toEqual(true))

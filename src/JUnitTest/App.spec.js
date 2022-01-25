@@ -21,6 +21,7 @@ describe('App Component', () => {
 
     describe('Header', () => {
 
+
       beforeEach(() => wrapper = component.find(TeamOmegaHeader));
 
       it('APP should contain Header', () => expect(wrapper.exists()).toEqual(true));

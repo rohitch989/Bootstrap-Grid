@@ -24,7 +24,8 @@ describe('TeamOmegaHeader Component', () => {
 
   it("-->checking proptype", () => {
     const expectedProps = {
-      type, text: "",
+      type,
+      text: "",
       id: "", className: ""
     }
     const propsError = checkProps(TeamOmegaHeader, expectedProps);
