@@ -15,7 +15,7 @@ let todos = [{
 let removeTodo = (rtodo) => {
   const removeArr = todos.filter(todo => todo.id !== rtodo.id);
   todos = [...removeArr];
-}
+};
 
 let updateTodo = (todo) => todo;
 

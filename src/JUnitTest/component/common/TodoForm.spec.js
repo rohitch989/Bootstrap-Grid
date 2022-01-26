@@ -14,7 +14,7 @@ describe('Todofrom Component', () => {
   let component, wrapper, props;
 
   beforeEach(() => {
-    props = { onSubmit: mockFunc }
+    props = { onSubmit: mockFunc };
     component = setUp(props);
   })
 

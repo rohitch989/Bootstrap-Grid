@@ -14,8 +14,7 @@ describe('TeamOmegaButton Component', () => {
 
   beforeAll(() => {
     props = {
-      type,
-      text: "",
+      type, text: "",
       click: mockFunc
     }
     component = setUp(props);

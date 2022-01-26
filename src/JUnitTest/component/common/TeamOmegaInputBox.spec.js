@@ -13,8 +13,7 @@ describe('TeamOmegaInputBox Component', () => {
   beforeAll(() => {
     props = {
       handlerChange: mockFunc,
-      values: "",
-      type: ""
+      values: "", type: ""
     }
     component = setUp(props);
   })

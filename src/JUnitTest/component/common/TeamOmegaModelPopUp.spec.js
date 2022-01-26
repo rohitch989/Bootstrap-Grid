@@ -15,7 +15,6 @@ describe('TeamOmegaModelPopUp Component', () => {
   let component, wrapper, props;
 
   beforeEach(() => {
-
     props = { editableTodo, isUpdate: mockFunc }
     component = setUp(props);
   });
