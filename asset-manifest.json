@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/rohitch989/Bootstrap-Grid.git/static/css/main.adb49d83.css",
-    "main.js": "/rohitch989/Bootstrap-Grid.git/static/js/main.05309e9b.js",
-    "index.html": "/rohitch989/Bootstrap-Grid.git/index.html",
-    "main.adb49d83.css.map": "/rohitch989/Bootstrap-Grid.git/static/css/main.adb49d83.css.map",
-    "main.05309e9b.js.map": "/rohitch989/Bootstrap-Grid.git/static/js/main.05309e9b.js.map"
+    "main.css": "/Bootstrap-Grid/static/css/main.38bbd5f0.css",
+    "main.js": "/Bootstrap-Grid/static/js/main.0285c66e.js",
+    "index.html": "/Bootstrap-Grid/index.html",
+    "main.38bbd5f0.css.map": "/Bootstrap-Grid/static/css/main.38bbd5f0.css.map",
+    "main.0285c66e.js.map": "/Bootstrap-Grid/static/js/main.0285c66e.js.map"
   },
   "entrypoints": [
-    "static/css/main.adb49d83.css",
-    "static/js/main.05309e9b.js"
+    "static/css/main.38bbd5f0.css",
+    "static/js/main.0285c66e.js"
   ]
 }
